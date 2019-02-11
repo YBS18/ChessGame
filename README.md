@@ -1,3 +1,3 @@
 # ChessGame
 
-Chess game done using objected oriented design for my class projects
+Chess game done using objected oriented design for my class project
