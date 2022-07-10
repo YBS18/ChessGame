@@ -1,3 +1,3 @@
 # ChessGame
 
-Chess game done using objected oriented design for my class project
+Chess game with Java using OOP principles
